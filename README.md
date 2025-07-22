@@ -23,7 +23,7 @@ Evaluation was based on accuracy, confusion matrices, precision, recall, F1-scor
 - **ResNet50**: >99% accuracy (using transfer learning)  
 
 
-See full analysis in the [Report](./Image_Classification_Report.pdf).
+See full analysis in the [Report](./Image_Classification_report.pdf).
 
 ## Files
 
