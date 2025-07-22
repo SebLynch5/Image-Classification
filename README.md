@@ -35,6 +35,6 @@ See full analysis in the [Report](./Image_Classification_report.pdf).
 
 The dataset (`cw_data.zip`, ~1.4 GB) is too large for GitHub. You can download it from the link below and upload it to your Google Drive:
 
-**[Download cw_data.zip]((https://drive.google.com/file/d/1RXtKTdWPYldieVTLQvQy_V_VyE9wv4pG/view?usp=drive_link))**
+**[Download cw_data.zip](https://drive.google.com/file/d/1RXtKTdWPYldieVTLQvQy_V_VyE9wv4pG/view?usp=drive_link)**
 
 To use the notebook, open in Google Colab and have `cw_data.zip` in your google drive.
